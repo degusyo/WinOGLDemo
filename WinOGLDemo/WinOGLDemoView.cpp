@@ -86,6 +86,9 @@ CWinOGLDemoDoc* CWinOGLDemoView::GetDocument() const // デバッグ以外のバ
 void CWinOGLDemoView::OnLButtonDown(UINT nFlags, CPoint point)
 {
 	// TODO: ここにメッセージ ハンドラー コードを追加するか、既定の処理を呼び出します。
-
+	int x = 0;
+	x = 0;
+	x = 0;
+	x = 0;
 	CView::OnLButtonDown(nFlags, point);
 }
